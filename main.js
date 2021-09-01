@@ -6,7 +6,7 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.on("ready", () => console.log("Je suis pret masta"))
+client.on("ready", () => console.log("Test"))
 client.on("error", () => console.error);
 client.on("warn", () => console.warn);
 client.on("debug", console.log);
