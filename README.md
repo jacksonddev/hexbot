@@ -1,3 +1,7 @@
+ If You Do Not Want To Deal With The Hassle Of Hosting You Own Bot I Have A Publicly Hosted HexBot You Can Invite To Your Server:
+ 
+ https://discord.com/api/oauth2/authorize?client_id=872993349353754627&permissions=2048&scope=bot
+ 
  Simple 3 Step Setup!
 
  1. Head Over To: https://discord.com/developers/applications And Create A New Application (Name It Whatever You Want) After You Have Created Your Application Go To "Bot" In The Settings Side Section Click "Add Bot" Than "Yes, do it!" Finally Click "Copy" Under The Token Section Once You Have Copied Your Bot Token You Can Close That Web Page. 
